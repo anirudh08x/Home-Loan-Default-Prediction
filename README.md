@@ -1,1 +1,1 @@
-# Home-Loan-Default-Prediction
+Built a predictive model to predict whether a potential customer will default on home loan repayment or not using supervised classification algorithms based on features like their yearly income, education level, age etc.
